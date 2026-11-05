@@ -1,5 +1,9 @@
 x = 99
 y = 99
-c = x / y
-print(c)
+d = x / y
+print(d)
 print("qwertyuio")
+f= 88
+g = 88
+c = f * g
+print(c)
