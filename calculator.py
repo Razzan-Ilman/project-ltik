@@ -1,4 +1,4 @@
-a= 10
-b = 10
-c = a * b
+f= 88
+g = 88
+c = f * g
 print(c)
