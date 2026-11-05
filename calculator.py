@@ -1,5 +1,5 @@
-a = 10
-b = 10
-c = a * b
+x = 99
+y = 99
+c = x * y
 print(c)
-print("qwertyuioiuyqdvbnljnhfbvudyfxhebd bqwjkecdbghdfbkfujshnb gbkhdbe")
+print("qwertyuio")
